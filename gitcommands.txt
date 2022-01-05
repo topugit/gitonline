@@ -1,0 +1,35 @@
+clear --------> clear screen
+touch filename.txt ------> create text file
+cd /g/xampp/htdocs/gitpractice ---------> change file location
+git clone https://github.com/topugit/gitonline.git ----------> download git file
+git status ---------> to check changes in files
+ls --------------> file list
+pwd ---------> to check which directory working
+cd ../ ------------>one step up
+git add -all --------> ready everything to stage
+git add * -------> ready evertything to stage except deleted file
+git reset --------> reset all files
+git add filename.txt ---------> upload single file
+git add foldername/filename.txt ---> upload single file in specific folder.
+git add *.txt/js/css/php ------> upload all text file
+
+git commit -m "I have made some changes" --------> upload to repisitory
+
+git reset HEAD~ ----------> reset everything after commit
+git reset --hard ----------> bring back file after manually deleted
+
+git rm filename.txt ---------> remove/delete file
+git rm filename.txt -f ---------> forcefully delete file
+
+git branch ----------> how many branches
+git branch branchname ---------> create new branch
+git checkout branchname ---------> enter into branch
+
+git merge main ---------> merge branch file with main file
+
+git push origin main/branchname ---------> upload file to github
+
+git fetch -----------> download remote to local
+  git merge -----------> to see file change made on remote
+
+git pull
