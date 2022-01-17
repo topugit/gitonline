@@ -1,3 +1,4 @@
+git innit ------> git start
 clear --------> clear screen
 touch filename.txt ------> create text file
 cd /g/xampp/htdocs/gitpractice ---------> change file location
