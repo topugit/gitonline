@@ -1,3 +1,5 @@
+mkdir foldername ---------> make folder in local
+
 git innit ------> git start
 clear --------> clear screen
 touch filename.txt ------> create text file
@@ -9,7 +11,7 @@ pwd ---------> to check which directory working
 cd ../ ------------>one step up
 git add -all --------> ready everything to stage
 git add * -------> ready evertything to stage except deleted file
-git reset --------> reset all files
+git reset --------> reset all files back to local from stage
 git add filename.txt ---------> upload single file
 git add foldername/filename.txt ---> upload single file in specific folder.
 git add *.txt/js/css/php ------> upload all text file
