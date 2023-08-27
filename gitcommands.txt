@@ -1,4 +1,5 @@
 mkdir foldername ---------> make folder in local
+git remote add origin URL --> Add remote file to local
 
 git innit ------> git start
 clear --------> clear screen
